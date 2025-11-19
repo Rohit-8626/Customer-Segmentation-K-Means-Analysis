@@ -114,6 +114,14 @@ AI & ML Student | Data Science Enthusiast
 ### Final Customer Clusters
 ![Customer Segments](/clusters.png)
 
+## How to Run
+
+```bash
+git clone https://github.com/Rohit-8626/Customer-Segmentation-K-Means-Analysis.git
+cd Customer-Segmentation-K-Means-Analysis
+pip install -r requirements.txt
+jupyter notebook Customer_Segmentation_KMeans_PCA.ipynb
+
 
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-vastani-3a9a18301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🔗 GitHub: https://github.com/Rohit-8626

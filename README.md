@@ -106,6 +106,15 @@ Rohit Vastani
 AI & ML Student | Data Science Enthusiast
 📍 India
 
+## Visualizations
+
+### Elbow Curve
+![Elbow Curve](/elbow_curve.png)
+
+### Final Customer Clusters
+![Customer Segments](/clusters.png)
+
+
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-vastani-3a9a18301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🔗 GitHub: https://github.com/Rohit-8626
 

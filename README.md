@@ -112,7 +112,7 @@ AI & ML Student | Data Science Enthusiast
 ![Elbow Curve](/elbow_curve.png)
 
 ### Final Customer Clusters
-![Customer Segments](/clusters.png)
+![Customer Segments](/cluster_scatter.png)
 
 ## How to Run
 
